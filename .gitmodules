@@ -1,0 +1,3 @@
+[submodule "src/sawyer_moveit"]
+	path = src/sawyer_moveit
+	url = git@github.com:UT-Austin-RobIn/sawyer_moveit.git
