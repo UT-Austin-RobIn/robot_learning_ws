@@ -1,3 +1,6 @@
 [submodule "src/sawyer_moveit"]
 	path = src/sawyer_moveit
 	url = git@github.com:UT-Austin-RobIn/sawyer_moveit.git
+[submodule "src/sawyer_robot"]
+	path = src/sawyer_robot
+	url = git@github.com:RethinkRobotics/sawyer_robot.git
