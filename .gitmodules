@@ -4,3 +4,6 @@
 [submodule "src/sawyer_robot"]
 	path = src/sawyer_robot
 	url = git@github.com:RethinkRobotics/sawyer_robot.git
+[submodule "src/moveit_tutorials"]
+	path = src/moveit_tutorials
+	url = git@github.com:ros-planning/moveit_tutorials.git
