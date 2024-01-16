@@ -7,3 +7,9 @@
 [submodule "src/moveit_tutorials"]
 	path = src/moveit_tutorials
 	url = git@github.com:ros-planning/moveit_tutorials.git
+[submodule "src/intera_sdk"]
+	path = src/intera_sdk
+	url = git@github.com:RethinkRobotics/intera_sdk.git
+[submodule "src/intera_common"]
+	path = src/intera_common
+	url = git@github.com:RethinkRobotics/intera_common.git
