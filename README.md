@@ -9,6 +9,7 @@ Code for the exercises in CS 309 Robot Learning (FRI I).
 ```
 cd
 git clone git@github.com:UT-Austin-RobIn/robot_learning_ws.git
+cd robot_learning_ws
 git submodule init
 git submodule update
 ```
