@@ -40,6 +40,7 @@ sudo apt-get install ros-noetic-desktop-full
 ```
 sudo apt-get install git-core python3-wstool python3-vcstools python3-rosdep ros-noetic-control-msgs ros-noetic-xacro ros-noetic-tf2-ros ros-noetic-rviz ros-noetic-cv-bridge ros-noetic-actionlib ros-noetic-actionlib-msgs ros-noetic-dynamic-reconfigure ros-noetic-trajectory-msgs ros-noetic-rospy-message-converter
 sudo apt-get install ros-noetic-moveit
+sudo apt-get install ros-noetic-rviz-visual-tools ros-noetic-moveit-visual-tools  
 ```
 5. Initialize rosdep
 ```
