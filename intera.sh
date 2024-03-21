@@ -24,7 +24,7 @@ robot_hostname="anna.local"
 
 # Set *Either* your computers ip address or hostname. Please note if using
 # your_hostname that this must be resolvable to the Robot.
-your_ip="192.168.0.57"
+your_ip="172.168.0.201"
 #your_hostname="my_computer.local"
 
 # Specify ROS distribution (e.g. kinetic, indigo, hydro, etc.)
