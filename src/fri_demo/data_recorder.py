@@ -11,8 +11,8 @@ import rospy
 from matplotlib import pyplot as plt
 from pynput import keyboard
 
-IMG_X = 1280  # Camera observation width
-IMG_Y = 720  # Camera observation height
+IMG_X = 640  # Camera observation width
+IMG_Y = 480  # Camera observation height
 
 
 class RealSenseCamera:
